@@ -1,0 +1,16 @@
+class True{
+  public static void main(String args[]){
+        boolean same;
+String s1=balaji;
+String s2=Vasanth;
+if(s1==s2){
+   same=true;
+System.out.println(same);
+}
+else
+{
+same=false;
+System.out.println(same);
+}
+}
+}
